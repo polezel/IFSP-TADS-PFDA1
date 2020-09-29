@@ -3,6 +3,10 @@
 #include <stdio.h>
 #include <locale.h>
 
+void novaFuncao() {
+printf("teste");
+}
+
 
 int main ()
 {
